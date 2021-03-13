@@ -46,15 +46,15 @@ var x = 100;
 
 ###### Blockquotes
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-
+> 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 
 Aliquam, asperiores!
 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-
+> 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-
+> 
 > **- Jane Doe**
 
 [1]: https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0
