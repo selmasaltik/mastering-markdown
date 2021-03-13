@@ -44,14 +44,6 @@ var x = 100;
 
 ![Coffee][coffee]
 
-<img src="cat.jpg" width="500" height="500" alt="">
-
-<style>
-  img {
-   width: 200px;
-  }
-</style>
-
 ###### Blockquotes
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. 
 > Lorem ipsum dolor sit amet consectetur adipisicing elit. 
